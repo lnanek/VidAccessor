@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="200" height="200" id="svg4905">
+  <metadata>
+    <rdf:RDF xmlns:cc="http://web.resource.org/cc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+      <cc:Work rdf:about="">
+        <dc:title>Red hand icon</dc:title>
+        <dc:description>White hand in Red glossy icon.</dc:description>
+        <dc:subject>
+          <rdf:Bag>
+            <rdf:li>red</rdf:li>
+            <rdf:li>hand</rdf:li>
+            <rdf:li>icon</rdf:li>
+            <rdf:li>glossy</rdf:li>
+            <rdf:li>stop</rdf:li>
+            <rdf:li>warning</rdf:li>
+            <rdf:li>white hand</rdf:li>
+          </rdf:Bag>
+        </dc:subject>
+        <dc:publisher>
+          <cc:Agent rdf:about="http://www.openclipart.org">
+            <dc:title>Open Clip Art Library</dc:title>
+          </cc:Agent>
+        </dc:publisher>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Jakub Jankiewicz</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:rights>
+          <cc:Agent>
+            <dc:title>Jakub Jankiewicz</dc:title>
+          </cc:Agent>
+        </dc:rights>
+        <dc:date/>
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+        <cc:license rdf:resource="http://web.resource.org/cc/PublicDomain"/>
+        <dc:language>pl</dc:language>
+      </cc:Work>
+      <cc:License rdf:about="http://web.resource.org/cc/PublicDomain">
+        <cc:permits rdf:resource="http://web.resource.org/cc/Reproduction"/>
+        <cc:permits rdf:resource="http://web.resource.org/cc/Distribution"/>
+        <cc:permits rdf:resource="http://web.resource.org/cc/DerivativeWorks"/>
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+    <defs id="defs4907">
+        <linearGradient x1="-277.60327" y1="492.89523" x2="-277.60327" y2="586.00757" id="linearGradient4659" xlink:href="#linearGradient4554" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1.23787, 0, 0, 1.23787, 439.696, -751.466)"/>
+        <linearGradient id="linearGradient4554">
+            <stop id="stop4556" style="stop-color:#ffffff;stop-opacity:0.51724136" offset="0"/>
+            <stop id="stop4558" style="stop-color:#ffffff;stop-opacity:0" offset="1"/>
+        </linearGradient>
+        <linearGradient x1="-558.50061" y1="466.54388" x2="-484.91888" y2="515.69452" id="linearGradient4549-9" xlink:href="#linearGradient4869" gradientUnits="userSpaceOnUse"/>
+        <linearGradient id="linearGradient4869">
+            <stop id="stop4871" style="stop-color:#cd0e00;stop-opacity:1" offset="0"/>
+            <stop id="stop4873" style="stop-color:#550600;stop-opacity:1" offset="1"/>
+        </linearGradient>
+        <linearGradient x1="-277.60327" y1="492.89523" x2="-277.60327" y2="586.00757" id="linearGradient2997" xlink:href="#linearGradient4554" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1.23787, 0, 0, 1.23787, 439.696, -599.466)"/>
+        <linearGradient x1="-558.50061" y1="466.54388" x2="-484.91888" y2="515.69452" id="linearGradient3000" xlink:href="#linearGradient4869" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1.23787, 0, 0, 1.23787, 751.141, -488.425)"/>
+    </defs>
+    <path d="m 100.90906,17.51778 c -7.342388,-0.3328 -13.9744,3.30012 -17.639709,9.6709 L 10.312124,153.49057 c -3.5155756,6.07521 -3.5075913,13.26197 0,19.34179 3.507592,6.07982 9.730907,9.67337 16.749989,9.67089 l 145.875767,0 c 7.01909,0.002 13.24241,-3.59107 16.75,-9.67089 3.50759,-6.07982 3.51558,-13.26658 0,-19.34179 L 116.76933,27.18868 c -3.33565,-5.79911 -9.1777,-9.35559 -15.86027,-9.6709 z" id="path4568" style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#4e0200;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans"/>
+    <path d="m 100.48353,26.801857 a 10.051963,10.051963 0 0 0 -9.168012,5.028865 L 18.35829,158.1326 a 10.051963,10.051963 0 0 0 8.703805,15.0866 l 145.875775,0 a 10.051963,10.051963 0 0 0 8.7038,-15.0866 L 108.72313,31.830722 a 10.051963,10.051963 0 0 0 -8.2396,-5.028865 z" id="path4564" style="color:#000000;fill:url(#linearGradient3000);fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:2.47574902;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"/>
+    <path d="m 99.534687,17.51669 c -6.791982,0.14824 -12.810874,3.69829 -16.247103,9.6709 l -45.453203,78.6824 c 18.067063,6.71372 39.35104,10.5993 62.164509,10.5993 22.83333,0 44.12605,-3.91348 62.2032,-10.63798 L 116.78757,27.18759 c -3.33565,-5.79911 -9.17771,-9.35559 -15.86027,-9.6709 -0.45891,-0.0208 -0.93981,-0.01 -1.392613,0 z" id="path4657" style="color:#000000;fill:url(#linearGradient2997);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"/>
+    <path d="m 114.48263,167.6331 c 0,-5.02473 0.28474,-12.01092 2.41674,-14.12391 2.74809,-2.72361 6.70868,-8.30712 7.20152,-13.18032 0.69183,-6.84059 9.23182,-16.28775 11.83083,-19.15016 2.599,-2.86236 4.09823,-5.01917 4.19742,-7.50676 0.14737,-3.69638 -6.18337,-7.10507 -9.99629,-2.91805 -2.57886,2.83187 -12.72137,14.74779 -16.82294,12.8607 -3.30656,-1.5213 -8.27383,-1.01057 -11.5606,3.30333 -1.07007,1.40446 -1.50569,2.91054 -2.320263,5.24646 -0.38384,1.10071 -1.609546,0.89862 -1.22094,-0.39183 0.519399,-1.72475 1.33621,-4.24785 2.868533,-6.30493 2.58697,-3.47287 8.8174,-5.13892 12.71584,-3.48699 1.79051,0.75872 3.28914,-1.85541 3.28914,-5.72966 0,-18.658905 0,-31.237913 0,-38.798813 0,-7.560912 -8.64103,-7.560912 -8.64103,0 0,7.5609 0,29.163493 0,31.053703 0,1.89025 -2.16025,3.51043 -2.16025,0 0,-3.5104 0,-32.673896 0,-40.504826 0,-7.830954 -9.451139,-8.371014 -9.451139,0 0,8.37099 0,35.914276 0,39.424706 0,3.51041 -2.470018,5.10413 -2.470018,0.66184 0,-4.4423 0,-28.205129 0,-32.795675 0,-4.590571 -9.411411,-5.670691 -9.411411,0 0,5.670666 0,29.703555 0,33.213955 0,3.51043 -2.654436,4.66291 -2.654436,0.71127 0,-3.95167 0,-19.613515 0,-26.094282 0,-6.480805 -9.283971,-7.986309 -9.283971,2.48762 0,10.473916 0,46.118172 0,54.489182 0,8.37101 3.932751,12.74747 7.927286,16.74201 3.634919,3.63491 2.980244,7.96004 2.980244,10.79135 z" id="path4661" style="color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"/>
+</svg>

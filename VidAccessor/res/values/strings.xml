@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">VidAccessor</string>
+    
+    <string name="search_prompt">
+    	This app lets you search for and rate accessible mobile videos!\n\n
+    	
+    	Enter some search words and press \"Search videos\" to watch, share, rate, and see the rating of mobile videos with captions. \n\n
+    	
+    	Enter some search words and press \"Search channels\"" to see the rating of channels.\n\n
+    </string>
+    <string name="search_terms_description">Enter words to search for in this <!-- "edit box" said automatically --></string>    
+    <string name="search_videos">Search Videos</string>    
+    <string name="search_videos_description">Allows searching for mobile videos with captions using the words you entered, <!-- "Search Videos button" said automatically --></string>    
+    <string name="search_channels">Search Channels</string>
+    <string name="search_channels_description">Allows searching for channels using the words you entered, <!-- "Search Channels button" said automatically --></string>    
+    
+    <string name="results_previous">Previous Results</string>
+    <string name="results_previous_description">Header button for accessing earlier results</string>
+    <string name="results_next">Next Results</string>
+    <string name="results_next_description">Footer button for accessing further results</string>
+    <string name="results_item_description">See details and actions for</string>
+    <string name="results_loading">Loading...</string>
+
+    <string name="details_view">Watch Video in YouTube Player</string>
+    <string name="details_view_description">Activate to <!-- "Watch Video in YouTube Player Button" --></string>
+    <string name="details_share">Share Video with Friend</string>
+    <string name="details_share_description">Clickable button to Share Video with Friend</string>
+    <string name="details_rating_prompt">\n\nSum of all user\'s ratings points for the caption quality:</string>
+    <string name="details_rating_description">The sum of rating points all people have assigned the video\'s captions</string>
+    <string name="details_rate_up">Rate the subtitles good</string>
+    <string name="details_rate_up_description">Clickable button to rate the subtitles good</string>
+    <string name="details_rate_down">Rate the subtitles bad</string>
+    <string name="details_rate_down_description">Clickable button to rate the subtitles bad</string>
+    <string name="details_channel_stats">See Channel Stats</string>
+    <string name="details_channel_stats_description">Activate to <!-- "See Channel Stats Button" --></string>
+    <string name="details_limit">Stats inaccurate as the channel has more than 1000 captioned videos. The data API does not allow querying beyond that.</string>
+    <string name="details_limit_description">Appears when the channel is too large for the data API</string>
+    
+    <string name="channel_details_rating_prompt">\n\nThe channel\'s subtitles are rated worldwide:</string>
+    <string name="channel_details_caption_percentage_prompt">\n\nThe channel\'s percentage of captioned videos:</string>
+    <string name="channel_details_caption_percentage_description">The percentage of captioned videos is</string>
+    
+</resources>

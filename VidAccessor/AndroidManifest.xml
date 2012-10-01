@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+      package="name.nanek.vidaccessor.android"
+      android:versionCode="1"
+      android:versionName="1.0">
+    <uses-sdk android:minSdkVersion="3" />
+
+	<uses-permission android:name="android.permission.INTERNET"/>
+	
+    <application android:icon="@drawable/icon" android:label="@string/app_name"
+    >
+        <activity android:name="Search" android:configChanges="mcc|mnc|touchscreen|keyboard|keyboardHidden|navigation|orientation"
+                  android:label="@string/app_name">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name="VideoResults" android:configChanges="mcc|mnc|touchscreen|keyboard|keyboardHidden|navigation|orientation"
+                  android:label="Video Search Results">
+        </activity>
+        <activity android:name="VideoDetails" android:configChanges="mcc|mnc|touchscreen|keyboard|keyboardHidden|navigation|orientation"
+                  android:label="Video Details and Actions">
+        </activity>
+        <activity android:name="ChannelResults" android:configChanges="mcc|mnc|touchscreen|keyboard|keyboardHidden|navigation|orientation"
+                  android:label="Channel Search Results">
+        </activity>>
+        <activity android:name="ChannelDetails" android:configChanges="mcc|mnc|touchscreen|keyboard|keyboardHidden|navigation|orientation"
+                  android:label="Channel Details">
+        </activity>
+
+    </application>
+</manifest>
